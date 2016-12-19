@@ -1,6 +1,6 @@
 <?php
            $page = $_SERVER['localhost/TeamMercy/deploymessages.php'];
-$sec = "25";
+$sec = "40";
   
      //accepting variables from the text box on our site
   //this feature is also used for manually sending messages to the intended user 
