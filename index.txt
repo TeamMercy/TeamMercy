@@ -1,0 +1,13 @@
+/*<?php
+$botToken = "158238992:AAEshjElWJ7mRmBtpkpznN9MLJn1FYJxCuE";
+$website = "https://api.telegram.org/bot"$botToken;
+
+
+$update = file_get_contents($website"/getupdates");
+
+ //print_r($getupdates);
+
+$updateArray = json_decode($update, TRUE);
+
+//print_r($updateArray);
+?>*/
